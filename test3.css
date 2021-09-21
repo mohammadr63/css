@@ -1,0 +1,34 @@
+p {
+    background-color: yellow;
+    color: purple;
+    width: fit-content;
+}
+h1 {
+    color: purple;
+    opacity: initial;
+}
+p1 {
+    opacity: 100%;
+    color: blue;
+}
+a {
+    color: gray;
+    opacity:80% ;
+}
+/* code html :  */
+/* <!DOCTYPE html>
+<html lang="fa-IR" dir="rtl">
+    <head>
+        <title> askilanlab</title>
+        <link rel="stylesheet" href="./askilan_lap.css">
+
+    </head>
+    <body>
+        <h1>mohammad</h1>
+        <p>hello im mohammad. im 14 years old my job fron-end. </p>
+        <p1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti eius modi tenetur eveniet sed delectus maxime dolorum corporis molestias nesciunt, veniam ducimus dicta tempore eos assumenda iusto? Eum, consequuntur vitae.
+        </p>
+         <a href="https://roocket.ir/series/learn-css/episode/10">roocket</a>
+
+    </body>
+</html>  */
